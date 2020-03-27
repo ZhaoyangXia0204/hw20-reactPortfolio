@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hw20-reactPortfolio/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/hw20-reactPortfolio/static/js/main.515dfd95.chunk.js",
+    "main.js.map": "/hw20-reactPortfolio/static/js/main.515dfd95.chunk.js.map",
+    "runtime-main.js": "/hw20-reactPortfolio/static/js/runtime-main.33665b8c.js",
+    "runtime-main.js.map": "/hw20-reactPortfolio/static/js/runtime-main.33665b8c.js.map",
+    "static/css/2.de424728.chunk.css": "/hw20-reactPortfolio/static/css/2.de424728.chunk.css",
+    "static/js/2.6b8afcdf.chunk.js": "/hw20-reactPortfolio/static/js/2.6b8afcdf.chunk.js",
+    "static/js/2.6b8afcdf.chunk.js.map": "/hw20-reactPortfolio/static/js/2.6b8afcdf.chunk.js.map",
+    "index.html": "/hw20-reactPortfolio/index.html",
+    "precache-manifest.330091b973f65bfd8231b77c712c0b12.js": "/hw20-reactPortfolio/precache-manifest.330091b973f65bfd8231b77c712c0b12.js",
+    "service-worker.js": "/hw20-reactPortfolio/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/hw20-reactPortfolio/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/hw20-reactPortfolio/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6b8afcdf.chunk.js.LICENSE.txt": "/hw20-reactPortfolio/static/js/2.6b8afcdf.chunk.js.LICENSE.txt",
+    "static/media/zhao.pdf": "/hw20-reactPortfolio/static/media/zhao.2afc41b4.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33665b8c.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.6b8afcdf.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.515dfd95.chunk.js"
+  ]
+}
